@@ -24,7 +24,7 @@ This project analyzes machine telemetry data collected from four international f
 - Built interactive dashboard for monitoring failures
 
 ## 📷 Dashboard Preview
-- ![Dashboard Preview](Screenshot(3).png)
+- ![Dashboard Preview](Screenshot (3).png)
 
 ## Live Dashboard
 - [Click to view Tableau Dasboard](https://public.tableau.com/app/profile/deepak.nayak2531/viz/Dataanalysttask1deloitee/Dashboard1?publish=yes)
